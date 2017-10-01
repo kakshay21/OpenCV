@@ -20,7 +20,7 @@ These actually work well even with the shadow. But the problem with this approac
 the scene every 5 sec. So any predefined algorithm like above mentioned takes first 120 frames to set threshold and 
 subtract it frame by frame. Only problem, the video we are working with is, it refreshes the scene every 5 sec. 
 So even with the no activity in the video, we'll find something like this
-
+![alt ](https://github.com/kakshay21/OpenCV/blob/master/anamoly.png)
 #### Approach 3:
 Straightforward, just use the approach of the above algorithm and fit it with the current scenario. pretty easy, right?
 Let's see in detail.
