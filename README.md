@@ -24,6 +24,7 @@ So even with the no activity in the video, we'll find something like this
 #### Approach 3:
 Straightforward, just use the approach of the above algorithm and fit it with the current scenario. pretty easy, right?
 Let's see in detail.
+
 Just convert the frame into gray one and make a threshold image after blurring it to a bit.
 Now subtract it frame by frame with the current frame.
 
