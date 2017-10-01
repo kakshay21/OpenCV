@@ -1,8 +1,8 @@
 ## OpenCV
 ### *Requirements*
-#### openCV 3.0 or greater
-#### imutils
-#### [this video](https://drive.google.com/file/d/0B2vPCVjlmUOsa2otcnJMbmtKRFE/view?usp=sharing)
+#### 1. openCV 3.0 or greater
+#### 2. imutils
+#### 3. [this video](https://drive.google.com/file/d/0B2vPCVjlmUOsa2otcnJMbmtKRFE/view?usp=sharing)
 
 ### *Approach*
 #### Approach 1:
@@ -31,3 +31,6 @@ Now subtract it frame by frame with the current frame.
 Voila! It's working.
 
 ![alt ](https://github.com/kakshay21/OpenCV/blob/master/detect.png)
+
+Wanna try it?
+Code is [here](https://github.com/kakshay21/OpenCV/blob/master/run.py)
