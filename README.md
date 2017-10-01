@@ -29,4 +29,5 @@ Just convert the frame into gray one and make a threshold image after blurring i
 Now subtract it frame by frame with the current frame.
 
 Voila! It's working.
+
 ![alt ](https://github.com/kakshay21/OpenCV/blob/master/detect.png)
