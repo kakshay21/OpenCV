@@ -3,7 +3,7 @@
 
 It can detect the presence of any person and record the time in a text file. 
 #### Possible use case  
-Smart security camera where it can warn the security authority when something interesting happens in the video. Can save endless hours in watching these security tapes.
+Security automation where it can warn the security authority when something interesting happens in the video. Can save endless hours in watching these security tapes.
 
 ### How to spin it up
 
